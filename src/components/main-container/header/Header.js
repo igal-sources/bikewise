@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Button } from "semantic-ui-react";
 import { useDispatch } from "react-redux";
-import { fetchBikesSuccess} from "../../../actions/bikeActions";
+import { fetchBikesSuccess } from "../../../actions/bikeActions";
 import DatePicker from "react-datepicker";
 import { DateToTimestamp } from "../../../shared/Utils";
 import { search } from "../../../apis/BikeService";
@@ -10,8 +10,8 @@ import "./header.scss";
 
 const Header = () => {
   const dispatch = useDispatch();
-  const [startDate, setStartDate] = useState(undefined);
-  const [endDate, setEndDate] = useState(undefined);
+  const [startDate, setStartDate] = useState();
+  const [endDate, setEndDate] = useState();
   const [searchValue, setSearchValue] = useState("");
 
   const handleTextChange = (event) => {
@@ -19,13 +19,11 @@ const Header = () => {
     setSearchValue(value);
   };
 
-  const handleStartDateChange = (event) => {
-    const value = event.target.value;
+  const handleStartDateChange = (value) => {
     setStartDate(value);
   };
 
-  const handleEndDateChange = (event) => {
-    const value = event.target.value;
+  const handleEndDateChange = (value) => {
     setEndDate(value);
   };
 
@@ -34,7 +32,6 @@ const Header = () => {
     //search(searchValue, DateToTimestamp(startDate), DateToTimestamp(endDate), (result) => {
     search(searchValue, undefined, undefined, (result) => {
       dispatch(fetchBikesSuccess({ ...result }));
-      console.log("result: ", result);
     });
   };
 

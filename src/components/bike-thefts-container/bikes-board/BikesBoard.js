@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from "react";
-import { useSelector } from "react-redux";
 import { useBikeCases } from "../../../shared/use-selectors";
 import { fetchBikes } from "../../../apis/BikeService";
 import BikeTheftsItem from "../bike-thefts-item/BikeTheftsItem";
