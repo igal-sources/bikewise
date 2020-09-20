@@ -1,0 +1,22 @@
+.bike-item-container {
+  border: 1px solid #ccc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.bike-footer {
+  margin-top: 3px;
+}
+
+.bike-item-details {
+  padding: 10;
+  margin: 0;
+  text-align: left;
+}
+
+.bike-item-image img {
+  width: var(--image-thumb-item-width);
+  height: var(--image-thumb-item-height);
+  border-radius: 2%;
+}

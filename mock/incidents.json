@@ -1,0 +1,554 @@
+{
+  "incidents": [
+    {
+      "id": 127353,
+      "title": "Parking - Abandoned Vehicle",
+      "description": "This Toyota crossover / SUV has been parked on Richmond Blvd for months. There is a bicycle sitting in the back seat and a bike rack on the back of the car. It’s been here for so long that it leaves no other conclusion other than the fact that it’s been abandoned. ",
+      "address": "3025 Richmond Blvd Oakland, CA, 94611, USA",
+      "occurred_at": 1600399686,
+      "updated_at": 1600413286,
+      "url": "https://bikewise.org/api/v1/incidents/127353",
+      "source": {
+        "name": "SeeClickFix.com",
+        "html_url": "https://seeclickfix.com/issues/8606554",
+        "api_url": "https://seeclickfix.com/api/v2/issues/8606554"
+      },
+      "media": {
+        "image_url": "https://seeclickfix.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeklQT1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e48feee690db869d5220afc70a76f25fa0e0a31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9RWVhWMGIxOXZjbWxsYm5SVU9ncHpkSEpwY0ZRNkMzSmxjMmw2WlVraUREZ3dNSGcyTURBR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--0a54b8f8956b3b13ab7a9e97d1d66e008d130064/8A9DF9BE-797C-486E-99E7-5A4AA22D4028.jpeg",
+        "image_url_thumb": "https://seeclickfix.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeklQT1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e48feee690db869d5220afc70a76f25fa0e0a31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9RWVhWMGIxOXZjbWxsYm5SVU9ncHpkSEpwY0ZRNkMzSmxjMmw2WlVraURURXdNSGd4TURCZUJqb0dSVlE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3doVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0lWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--59a940dfa7d188e4139c02ee5a1f675b11244b3c/8A9DF9BE-797C-486E-99E7-5A4AA22D4028.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127345,
+      "title": "Stolen 2013 Specialized Secteur Compact(black)",
+      "description": null,
+      "address": "Minneapolis, MN, 55416",
+      "occurred_at": 1600381565,
+      "updated_at": 1600408830,
+      "url": "https://bikewise.org/api/v1/incidents/127345",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920224",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920224"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330535/large_06E4E981-CDBB-4851-AA0F-AA812CA8806B.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330535/small_06E4E981-CDBB-4851-AA0F-AA812CA8806B.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127340,
+      "title": "Stolen 2020 GT Bicycles Aggressor Comp(red)",
+      "description": null,
+      "address": "Calgary, T3m0b7, CA",
+      "occurred_at": 1600380757,
+      "updated_at": 1600408830,
+      "url": "https://bikewise.org/api/v1/incidents/127340",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920215",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920215"
+      },
+      "media": {
+        "image_url": null,
+        "image_url_thumb": null
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127338,
+      "title": "Stolen 2018 Bianchi Lupo(silver, gray or bare metal)",
+      "description": "Locked at bike rack in front of house overnight with Kryptonite u-lock.",
+      "address": "San Francisco, CA, 94110",
+      "occurred_at": 1600380000,
+      "updated_at": 1600408830,
+      "url": "https://bikewise.org/api/v1/incidents/127338",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920220",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920220"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330536/large_IMG_1005.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330536/small_IMG_1005.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127346,
+      "title": "Stolen 2018 Liv Avail 1- TR(white)",
+      "description": null,
+      "address": "San Francisco, CA, 94132",
+      "occurred_at": 1600379280,
+      "updated_at": 1600408830,
+      "url": "https://bikewise.org/api/v1/incidents/127346",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920208",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920208"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330539/large_20200917_121617.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330539/small_20200917_121617.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127337,
+      "title": "Stolen 2017 Specialized Stump Jumper(black)",
+      "description": null,
+      "address": "Provo, UT, 84604",
+      "occurred_at": 1600375577,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127337",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920168",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920168"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330486/large_IMG_1727.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330486/small_IMG_1727.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127317,
+      "title": "Stolen 2018 Ibis Ripmo(black)",
+      "description": null,
+      "address": "Campbell, CA, 95008",
+      "occurred_at": 1600369716,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127317",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920128",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920128"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330460/large_ripmo_side.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330460/small_ripmo_side.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127323,
+      "title": "Stolen 2019 Giant Roam 2(blue and orange)",
+      "description": "",
+      "address": "Milwaukee, WI, 53211",
+      "occurred_at": 1600369200,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127323",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920137",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920137"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330481/large_hunter_bike.PNG",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330481/small_hunter_bike.PNG"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127325,
+      "title": "Stolen 2017 Schwinn Perla(teal)",
+      "description": "Between August 24 and August 28, my friends home was broken into and my bike was stolen from their garage, along with 2 others. ",
+      "address": "Los Angeles, CA, 90230",
+      "occurred_at": 1600369200,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127325",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920131",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920131"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330462/large_IMG_20181123_171627.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330462/small_IMG_20181123_171627.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127329,
+      "title": "Stolen 2019 Trek Dual Sport 2(black)",
+      "description": "Bike was stolen from parking garage. Bike as a whole should be relatively intact.",
+      "address": "Austin, TX, 78705",
+      "occurred_at": 1600369200,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127329",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/409317",
+        "api_url": "https://bikeindex.org/api/v1/bikes/409317"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330473/large_trek-dual-sport-2-340705-1.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330473/small_trek-dual-sport-2-340705-1.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127330,
+      "title": "Stolen 2020 Trek Marlin 5(black)",
+      "description": "On 9/16/2020 I Left the bike on front porch and it was stolen between 5:30pm and 8pm",
+      "address": "Denver, CO, 80209",
+      "occurred_at": 1600365600,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127330",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/710298",
+        "api_url": "https://bikeindex.org/api/v1/bikes/710298"
+      },
+      "media": {
+        "image_url": null,
+        "image_url_thumb": null
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127318,
+      "title": "Stolen 2018 Specialized DIVERGE(purple)",
+      "description": "Was locked to Car Bike Rack and was stolen in broad daylight",
+      "address": "Boulder, CO, 80309-0379",
+      "occurred_at": 1600365600,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127318",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920117",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920117"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330453/large_Michelles_Bike.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330453/small_Michelles_Bike.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127327,
+      "title": "Stolen 2011 Marin Bikes Larkspur(black)",
+      "description": "",
+      "address": "San Antonio, TX, 78204",
+      "occurred_at": 1600365600,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127327",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920114",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920114"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330435/large_IMG_2497.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330435/small_IMG_2497.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127321,
+      "title": "Stolen 2018 Surly Cross-Check(orange)",
+      "description": "",
+      "address": "Seattle, WA, 98102",
+      "occurred_at": 1600362000,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127321",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920100",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920100"
+      },
+      "media": {
+        "image_url": null,
+        "image_url_thumb": null
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127324,
+      "title": "Stolen 2016 Niner Jet 9 Carbon(red)",
+      "description": "Stolen from garage",
+      "address": "Cottonwood, UT, 84121",
+      "occurred_at": 1600362000,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127324",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920083",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920083"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330404/large_3Z73zOYcbIQLN2eKbDOXNp0vsEW_acMPxNEb3vCkHow-2048x1536.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330404/small_3Z73zOYcbIQLN2eKbDOXNp0vsEW_acMPxNEb3vCkHow-2048x1536.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127291,
+      "title": "Stolen Trek(black)",
+      "description": "bike was in storage room in a locked condo building where I live.",
+      "address": "Portland, OR, 97232",
+      "occurred_at": 1600358400,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127291",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/120358",
+        "api_url": "https://bikeindex.org/api/v1/bikes/120358"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/84925/large_image.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/84925/small_image.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127261,
+      "title": "Stolen 2016 Trek Domane(white)",
+      "description": "",
+      "address": "Saint Louis, MO, 63110",
+      "occurred_at": 1600351200,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127261",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919989",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919989"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330276/large_57202063-E42B-4EA6-BC7F-4D2BA21B553A.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330276/small_57202063-E42B-4EA6-BC7F-4D2BA21B553A.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127259,
+      "title": "Stolen 2021 Trek Marlin 6(red)",
+      "description": "Taken from drive way between the hours of 11pm and 6 AM",
+      "address": "Benbrook, TX, 76126",
+      "occurred_at": 1600351200,
+      "updated_at": 1600408831,
+      "url": "https://bikewise.org/api/v1/incidents/127259",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919992",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919992"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330278/large_20200812_153830.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330278/small_20200812_153830.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127263,
+      "title": "Stolen 2002 Felt F1X(black)",
+      "description": "Bike was locked (cable through the wheels linked to a u-lock on the frame) to a bike rack in the garage of our apartment building. The rack was cut through and bent away where the u-lock had been. Bike, lock, and cable all taken. ",
+      "address": "Portland, OR, 97232",
+      "occurred_at": 1600347600,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127263",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/746554",
+        "api_url": "https://bikeindex.org/api/v1/bikes/746554"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330271/large_06A5B00A-1FE4-4CA8-A67C-FB1829C73466.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330271/small_06A5B00A-1FE4-4CA8-A67C-FB1829C73466.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127250,
+      "title": "Stolen 2020 Fuji Feather Navy(blue)",
+      "description": "Left out on private parking lot next to group of people working out",
+      "address": "Boston, MA, 02127",
+      "occurred_at": 1600345800,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127250",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919978",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919978"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330268/large_bike.JPG",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330268/small_bike.JPG"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127257,
+      "title": "Stolen 2017 Specialized Vita Sport AL(teal)",
+      "description": "Bike was stolen out of our detached garage. ",
+      "address": "Minneapolis, MN, 55406",
+      "occurred_at": 1600344000,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127257",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919970",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919970"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330258/large_BE3CBE93-2783-4115-ACA5-95AEA9E1ACFB_1_105_c.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330258/small_BE3CBE93-2783-4115-ACA5-95AEA9E1ACFB_1_105_c.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127251,
+      "title": "Stolen 2019 Cube Acid Hyb. Pro 500 d.blue'n'lime, 15Z(blue and yellow or gold)",
+      "description": null,
+      "address": "Nürnberg, 90439, DE",
+      "occurred_at": 1600341989,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127251",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919967",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919967"
+      },
+      "media": {
+        "image_url": null,
+        "image_url_thumb": null
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127341,
+      "title": "Stolen 2020 Surly Big Dummy(green)",
+      "description": "",
+      "address": "Portland, OR, 97214",
+      "occurred_at": 1600340400,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127341",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/920207",
+        "api_url": "https://bikeindex.org/api/v1/bikes/920207"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330522/large_330C5E74-6C93-4B0E-8C28-C7A976D32CCD.jpeg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330522/small_330C5E74-6C93-4B0E-8C28-C7A976D32CCD.jpeg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127256,
+      "title": "Stolen 2018 Trek Remedy(black)",
+      "description": null,
+      "address": "Calgary, T2S0C4, CA",
+      "occurred_at": 1600339776,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127256",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919963",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919963"
+      },
+      "media": {
+        "image_url": null,
+        "image_url_thumb": null
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    },
+    {
+      "id": 127253,
+      "title": "Stolen 2020 Trek Marlin(blue)",
+      "description": null,
+      "address": "San Francisco, CA, 94122",
+      "occurred_at": 1600333885,
+      "updated_at": 1600408832,
+      "url": "https://bikewise.org/api/v1/incidents/127253",
+      "source": {
+        "name": "BikeIndex.org",
+        "html_url": "https://bikeindex.org/bikes/919951",
+        "api_url": "https://bikeindex.org/api/v1/bikes/919951"
+      },
+      "media": {
+        "image_url": "https://files.bikeindex.org/uploads/Pu/330403/large_20200917_095822.jpg",
+        "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/330403/small_20200917_095822.jpg"
+      },
+      "location_type": null,
+      "location_description": null,
+      "type": "Theft",
+      "type_properties": null
+    }
+  ]
+}

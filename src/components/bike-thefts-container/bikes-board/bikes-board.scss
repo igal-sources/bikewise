@@ -1,0 +1,15 @@
+
+.bikes-board-container {
+  display: flex;
+  flex-direction: column;  
+}
+
+.bikes-board-items {
+  width: 50%;
+  align-self: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-transform: capitalize;
+  font-size: 14px;
+  letter-spacing: 0.015em;
+}
