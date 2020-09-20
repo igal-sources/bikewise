@@ -15,3 +15,5 @@ export const HTTP = {
 export const FETCH_BIKES_SUCCESS = "FETCH_BIKES_SUCCESS";
 export const FETCH_BIKES_ERROR = "FETCH_BIKES_ERROR";
 export const FETCH_BIKES_EMPTY = "FETCH_BIKES_ERROR";
+
+export const PAGINATION_TO = "PAGINATION_TO";

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { useBikeCases } from "../../../shared/use-selectors";
+import { useBikeCases, usePaging } from "../../../shared/use-selectors";
 import { fetchBikes } from "../../../apis/BikeService";
 import BikeTheftsItem from "../bike-thefts-item/BikeTheftsItem";
 import "./bikes-board.scss";
@@ -7,19 +7,23 @@ import "./bikes-board.scss";
 const BikesBoard = () => {
   const isCancelled = useRef(false);
   const [bikes, setBikes] = useState({ incidents: [] });
+  const [pageNumber, setPageNum] = useState(1);
 
+  const pageHook = usePaging();
   const cases = useBikeCases();
   !cases && setBikes(cases);
 
-  const fetchTheftsBikes = () => {
-    fetchBikes(1, 10, (bikesResponse) => {
+  const fetchTheftsBikes = (page) => {
+    console.log("fetchTheftsBikes: ");
+    fetchBikes(page, 10, (bikesResponse) => {
       setBikes(bikesResponse);
       console.log(bikesResponse.incidents);
     });
   };
 
   useEffect(() => {
-    !isCancelled.current && fetchTheftsBikes();
+    !isCancelled.current && fetchTheftsBikes(pageNumber);
+    setPageNum(pageHook);
 
     if (Object.keys(cases).length > 0) {
       cases && setBikes(cases);
@@ -29,7 +33,7 @@ const BikesBoard = () => {
       isCancelled.current = true;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [cases]);
+  }, [cases, pageNumber]);
 
   return (
     <div className="bikes-board-container">
