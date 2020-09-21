@@ -32,7 +32,7 @@ describe("Test BikeTheftsItem functionality", () => {
   const wrapper = shallow(<BikeTheftsItem bikeItem={bikeItem} />);
 
   it("should check case title is rendering", () => {
-    expect(wrapper.find("#bike-item-title-link").text()).toEqual(
+    expect(wrapper.find("#bike-item-title-link").render().text()).toEqual(
       "Parking - Abandoned Vehicle"
     );
   });
