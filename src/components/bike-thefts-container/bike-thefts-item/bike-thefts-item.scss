@@ -1,5 +1,7 @@
 .bike-item-container {
+  margin-top: 2px;
   border: 1px solid #ccc;
+  border-radius: 5px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
@@ -19,6 +21,7 @@
   width: var(--image-thumb-item-width);
   height: var(--image-thumb-item-height);
   border-radius: 2%;
+  resize: both;
 }
 
 .bike-details-card {
