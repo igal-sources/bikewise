@@ -46,7 +46,7 @@ const BikeTheftsItem = ({ bikeItem }) => {
           </div>
         </Grid.Column>
       </Grid>
-      <BikeDetailsCard bikeItem={bikeItem} modalOpen={modalOpen} />
+      <BikeDetailsCard bikeItem={bikeItem} modalOpen={modalOpen} className="bike-details-card" />
     </div>
   );
 };

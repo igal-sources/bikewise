@@ -1,6 +1,6 @@
 
 .bikes-board-container {
-  height: calc(100vh - 120px);
+ 
   display: flex;
   flex-direction: column;  
   overflow: hidden;
@@ -15,4 +15,14 @@
   text-transform: capitalize;
   font-size: 14px;
   letter-spacing: 0.015em;
+}
+
+.footer-container {
+  width: 100%;
+  position: fixed;
+  display: block;
+  background-color: #f3e5f5;
+  border: 1px solid #ab47bc;
+  height: 4%;
+  bottom: 0;
 }

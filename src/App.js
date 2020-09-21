@@ -13,9 +13,6 @@ const App = () => {
           <Header />
         </div>
         <Routes />
-        <div className="App-footer">
-          <Footer />
-        </div>
       </div>
     </div>
   );
