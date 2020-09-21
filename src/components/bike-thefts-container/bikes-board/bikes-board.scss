@@ -1,10 +1,7 @@
-
 .bikes-board-container {
- 
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
   overflow: hidden;
-  overflow-y: scroll;
 }
 
 .bikes-board-items {
@@ -19,10 +16,10 @@
 
 .footer-container {
   width: 100%;
+  text-align: center;
   position: fixed;
   display: block;
   background-color: #f3e5f5;
-  border: 1px solid #ab47bc;
-  height: 4%;
+  height: 5.5%;
   bottom: 0;
 }

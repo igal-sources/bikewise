@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { useBikeCases, usePaging } from "../../../shared/use-selectors";
+import { useBikeCases } from "../../../shared/use-selectors";
 import { fetchBikes } from "../../../apis/BikeService";
 import Pagination from "react-js-pagination";
 import BikeTheftsItem from "../bike-thefts-item/BikeTheftsItem";
@@ -15,7 +15,6 @@ const BikesBoard = () => {
     setActivePage(pageNumber);
     fetchTheftsBikes(pageNumber);
   };
-  //const pageHook = usePaging();
   const cases = useBikeCases();
   !cases && setBikes(cases);
 

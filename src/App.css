@@ -28,12 +28,3 @@
   margin-top: 15px;
 }
 
-.App-footer {
-  width: 100%;
-  position: fixed;
-  display: block;
-  background-color: #f3e5f5;
-  border: 1px solid #ab47bc;
-  height: 4%;
-  bottom: 0;
-}

@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import { Grid } from "semantic-ui-react";
 import BikeDetailsCard from "../bike-details-card/BikeDetailsCard";
-import { ConvertTimestampToDate } from "../../../shared/Utils";
+import { TimestampToDate } from "../../../shared/Utils";
 import "./bike-thefts-item.scss";
 
 const BikeTheftsItem = ({ bikeItem }) => {
@@ -19,7 +19,7 @@ const BikeTheftsItem = ({ bikeItem }) => {
   const [timestampDate, setTimestampDate] = useState();
   const [modalOpen, setModalOpen] = useState(false);
 
-  const ConvertTimestamp = () => setTimestampDate(ConvertTimestampToDate(occurred_at));
+  const ConvertTimestamp = () => setTimestampDate(TimestampToDate(occurred_at));
 
   useEffect(() => {
     !isCancelled.current && ConvertTimestamp();
