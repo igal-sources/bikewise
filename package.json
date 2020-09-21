@@ -58,10 +58,5 @@
     "bootstrap-less": "^3.3.8",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm run test:coverage"
-    }
   }
 }
