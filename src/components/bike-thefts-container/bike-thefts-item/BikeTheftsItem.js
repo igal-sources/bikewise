@@ -37,7 +37,7 @@ const BikeTheftsItem = ({ bikeItem }) => {
           <img src={image_url_thumb} alt={name} />
         </Grid.Column>
         <Grid.Column className="bike-item-details" width={12}>
-          <Link to="/" onClick={() => setModalOpen(true)}>
+          <Link id="bike-item-title-link" to="/" onClick={() => setModalOpen(true)}>
             {title}
           </Link>
           <div className="bike-item-description">{description}</div>
